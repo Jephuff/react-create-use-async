@@ -28,5 +28,9 @@
   },
   "peerDependencies": {
     "react": ">16.6"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Jephuff/react-create-use-async.git"
   }
 }
